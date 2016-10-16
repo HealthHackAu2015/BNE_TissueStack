@@ -56,7 +56,7 @@ The solution tackles the most difficult part of the existing problem owners pitc
 prototype within the presented problems codebase and is presented as a pull reqest on this fork.
 
 ##HH2016 and Open Knowledge values
-The proposed solution is Open Source (GPL)
+The proposed solution is Open Source (GPLv3)
 
 Working POC here: 
 ![HH2016 after](https://github.com/HealthHackAu2016/BNE_TissueStack/blob/master/HH-2016-after.png "HH2016 after")
