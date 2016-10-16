@@ -4,11 +4,12 @@
 ##Health Hack 2016 - Brisbane
 
 ##Team Members
-Andrew Janke - Problem Owner - https://www.linkedin.com/in/ajanke
-Ellot Smith - Hacker - https://www.linkedin.com/in/elliot-smith-373a1740
-Matthew Brown - Hacker - https://www.linkedin.com/in/mnbbrown
+* Andrew Janke - Problem Owner - https://www.linkedin.com/in/ajanke
+* Ellot Smith - Hacker - https://www.linkedin.com/in/elliot-smith-373a1740
+* Matthew Brown - Hacker - https://www.linkedin.com/in/mnbbrown
 
-##The problem - http://www.healthhack.com.au/challenges#c2
+##The problem
+http://www.healthhack.com.au/challenges#c2
 
 ##The Pitch
 Biomedical Image segmentation is a major roadblock to advances in neuroscience. Data sizes are 
