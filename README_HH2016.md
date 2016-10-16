@@ -57,5 +57,8 @@ prototype within the presented problems codebase and is presented as a pull reqe
 
 ##HH2016 and Open Knowledge values
 The proposed solution is Open Source (GPL)
+
+Working POC here: 
+![HH2016 after](https://github.com/HealthHackAu2016/BNE_TissueStack/blob/master/HH-2016-after.png "HH2016 after")
 ...
 
