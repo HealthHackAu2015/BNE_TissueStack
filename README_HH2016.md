@@ -33,3 +33,29 @@ tracing/identification of fossils. The possibilities for online painting and col
 but we don't have the tools.
 
 The problem of tracing isn't hard but the tools to do it collaboratively and in 3D don't exist.
+
+The image below demonstrates the existing style of desktop interface on the left that is used for
+small files (4GB Max) and the current web based interface that supports view but not editing of
+information.
+
+![HH2016 image](https://github.com/HealthHackAu2016/BNE_TissueStack/blob/master/HH-2016-janke-90.png "HH2016 image")
+
+##Design
+The POC online collaborative painting tool that has been developed can be used in many other fields that
+use blocks of data. Mining, weather, exploration, more broad areas of biomedical imaging (microscopy) and R+D.
+By allowing colalborative online editing.
+
+This POC wil allow for citizen scientists to contribute to areas of science that they were previously 
+liminted based upon the available tools. For example Zooniverse allows annotation but it is only 2D and not
+collaborative.
+
+##Implementation
+This weekend we have delivered a POC implementation that allows for collaborative editing. 
+
+The solution tackles the most difficult part of the existing problem owners pitch. The solution is a working
+prototype within the presented problems codebase and is presented as a pull reqest on this fork.
+
+##HH2016 and Open Knowledge values
+The proposed solution is Open Source (GPL)
+...
+
